@@ -1,0 +1,13 @@
+# --------------------------- PI-GRID ---------------------------- #
+#
+# The mesh is rotated:
+.true.
+
+# ... and is partitioned in the following part_format.
+# 1: old format prior to rev. 198; 0: new format
+0		
+
+# ---------------------------------------------------------------- #
+# This is a simple grid (so-called pi-grid) intended for technical
+# tests and for spheRlab examples. The mesh has 3.14*1000 surface 
+# nodes.
